@@ -1,0 +1,56 @@
+
+    body {
+
+        background: url(https://media.giphy.com/media/fyLbfJBuSQYIgaBSyd/giphy.gif?cid=ecf05e4741pl1y12jvhknob8rhp1tzoqql0j1ydravy9mj8u&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+    }
+
+
+    #title{
+        color: #fdfdfd;
+    }
+
+
+    .clo_or{
+        color: #f6f1f1;
+    }
+
+    #zer{
+        background-color: #938592;
+        color: #f8f8f8;
+        border: none;
+        padding: 5px 15px;
+        border-radius: 10px;
+        cursor:pointer 
+    }
+
+
+    #ema_il{
+        background:color 0;
+        border: none;
+        outline: none;
+        padding: 3px 10px;
+        border-radius: 10px;
+
+    }
+
+
+    
+    #pass_word{
+        background:color 0;
+        border: none;
+        outline: none;
+        padding: 3px 10px;
+        border-radius: 10px;
+    }
+
+
+    #copy_right{
+        color: #f8f8f8;
+
+    }
+
+
+    *{
+        font-size: large;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
